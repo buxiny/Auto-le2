@@ -1,9 +1,0 @@
-
-config filebrowser 'config'
-	option addr_type 'lan'
-	option db_dir '/etc'
-	option db_name 'filebrowser.db'
-	option enabled '1'
-	option port '5012'
-	option root_dir '/'
-
