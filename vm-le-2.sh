@@ -19,4 +19,4 @@ sed -i 's/^\(.*99999\)/#&/' package/lean/default-settings/files/zzz-default-sett
 # Modify system hostname（FROM OpenWrt CHANGE TO OpenWrt-Bu）
 #sed -i "s/OpenWrt/OpenWrt by Bu $(TZ=UTC-8 date "+%y.%m.%d") @/g" package/lean/default-settings/files/zzz-default-settings
 
-git clone https://github.com/xiaoqingfengATGH/p7zip-gcc17.git package/p7zip
+#git clone https://github.com/xiaoqingfengATGH/p7zip-gcc17.git package/p7zip
